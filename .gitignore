@@ -3,3 +3,6 @@ dist
 coverage
 *.local
 .DS_Store
+
+# Локальные разрешения Qwen Code (меняются автоматически)
+.qwen/settings.json
